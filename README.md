@@ -6,3 +6,17 @@ This setup starts once you hit the go live button if your Firebot is connected. 
 This pack comes with a freebie black and white "ads starting soon" pop up image that has the correct dimensions for what the bot has default. If you'd like something custom, feel free to reach out to me on Discord (CinnaBadger#8964)
 
 I'll be including screenshots and examples along with everything. Don't hesitate to reach out if you need help!
+
+
+-------------------
+
+
+To install, you'll first download the .zip file included and unzip it.
+From there, you'll open Firebot and go to Settings
+From Settings you'll navigate to Setups
+From Setups you'll go to import setup
+Select Choose File and locate the fireboty setup file
+Navigate to the timers section of firebot and open the one labeled Ad using the ... to the far right of the program
+go to the option for show images/gif and locate the file you want to use for the "ad coming soon" image
+make sure your placement is correct!
+test!
