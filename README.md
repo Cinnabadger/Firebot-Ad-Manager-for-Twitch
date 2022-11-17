@@ -10,13 +10,14 @@ I'll be including screenshots and examples along with everything. Don't hesitate
 
 -------------------
 
+**INSTALLATION**
 
-To install, you'll first download the .zip file included and unzip it.
-From there, you'll open Firebot and go to Settings
-From Settings you'll navigate to Setups
-From Setups you'll go to import setup
-Select Choose File and locate the fireboty setup file
-Navigate to the timers section of firebot and open the one labeled Ad using the ... to the far right of the program
-go to the option for show images/gif and locate the file you want to use for the "ad coming soon" image
-make sure your placement is correct!
-test!
+- To install, you'll first download the .zip file included and unzip it.
+- From there, you'll open Firebot and go to Settings
+- From Settings you'll navigate to Setups
+- From Setups you'll go to import setup
+- Select Choose File and locate the fireboty setup file
+- Navigate to the timers section of firebot and open the one labeled Ad using the ... to the far right of the program
+- go to the option for show images/gif and locate the file you want to use for the "ad coming soon" image
+- make sure your placement is correct!
+- test!
