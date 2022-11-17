@@ -1,5 +1,5 @@
 # Firebot-Ad-Manager-for-Twitch
-This handy little setup will allow you to bypass Twitch's native Ad Manager feature and allow you more control over when and how ads are displayed. 
+This handy little setup will allow you to bypass Twitch's native Ad Manager feature and allow you more control over when and how ads are displayed. It disables all prerolls for incoming viewers. 
 
 This setup starts once you hit the go live button if your Firebot is connected. From there it runs every 19 minutes. At the 19 minute mark, it flashes an image up unobtrusively on the screen for viewers to let them know an ad is going to play soon. It delays for 30 seconds and then starts the 1 minute of ads and posts a chat message that can be customized to your liking (mine is in as a template). 
 
